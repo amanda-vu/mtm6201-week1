@@ -1,0 +1,17 @@
+img {
+    float: left;
+    margin-right: 15px;
+}
+
+p {
+    line-height: 150%;
+    width: 650px;
+}
+
+dt {
+    font-size: 1.15rem;
+}
+
+dl, dt, dd {
+    margin: 0;
+}
