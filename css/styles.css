@@ -12,6 +12,7 @@ dt {
     font-size: 1.15rem;
     background-color: rgb(255, 229, 233);
     width: 300px;
+    font-weight: bold;
 }
 
 dl, dt, dd {
